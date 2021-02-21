@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Simple doesn't mean trivial
+
 Use the left arrow to go back!
